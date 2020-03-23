@@ -1,4 +1,5 @@
 # vscode_settings
+```
 {
     "editor.fontSize": 13,
     "editor.lineHeight": 16,
@@ -67,6 +68,7 @@
     },
     "workbench.iconTheme": "eq-material-theme-icons-light",
 }
+```
 ```
 // "activityBarBadge.background": "#84FFFF",
 // "list.activeSelectionForeground": "#84FFFF",
